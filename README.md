@@ -18,3 +18,15 @@ Here are some ideas to get you started:
 I'm just a Kotlin and .NET Android & iOS developer. 
 
 📱 **Fully commited** Senior mobile developer.
+
+~~~json
+{
+  "core_technologies" : [
+    "Kotlin" : "true",
+    "Android" : "true",
+    ".NET" : "true",
+    ".NET MAUI" : "true",
+    ...
+  ]
+}
+~~~
