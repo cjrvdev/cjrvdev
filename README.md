@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm just a Kotlin and .NET Android & iOS developer. 
 
-📱 **Fully commited** Senior mobile developer.
+📱 **_Fully commited_** Senior mobile developer.
 
 ~~~json
 {
