@@ -22,10 +22,12 @@ I'm just a Kotlin and .NET Android & iOS developer.
 ~~~json
 {
   "core_technologies" : [
-    "Kotlin" : "true",
-    "Android" : "true",
-    ".NET" : "true",
-    ".NET MAUI" : "true",
+    "Kotlin",
+    "Android",
+    "Kotlin Multiplatform",
+    "Compose Multiplatform",
+    ".NET",
+    ".NET MAUI",
     ...
   ]
 }
